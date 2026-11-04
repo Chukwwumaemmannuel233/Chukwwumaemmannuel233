@@ -1,57 +1,40 @@
 
-# Hi, I'm Chukwuma Emmanuel 👋
+# Chukwuma Emmanuel
 
-### Full-Stack Developer | React Native Developer
+**Full-Stack Developer | React Native Developer**
 
-I'm a software developer focused on building modern, responsive web applications and cross-platform mobile applications. I enjoy solving problems, learning new technologies, and turning ideas into functional digital products.
+I'm a software developer focused on building functional, responsive web applications and mobile applications. I work across frontend and backend development, with an interest in creating practical solutions to real-world problems.
 
-### 👨‍💻 About Me
+### About Me
 
-- 💻 Full-Stack JavaScript Developer.
-- 📱 Building mobile applications with React Native and Expo.
-- 🌐 Developing web applications with React, Next.js and TypeScript.
-- ⚙️ Working with Node.js, Express.js and PostgreSQL on the backend.
-- 🚀 Currently developing **Ember**, a food ordering application.
-- 🤝 Open to remote opportunities, collaborations and international roles.
+- Full-Stack JavaScript development.
+- Building web applications with React, Next.js and TypeScript.
+- Developing backend services with Node.js, Express and PostgreSQL.
+- Building cross-platform mobile applications with React Native and Expo.
+- Currently developing Ember, a food ordering platform.
+- Open to remote opportunities and professional collaborations.
 
-### 🛠️ Tech Stack
+### Technical Skills
 
-**Frontend**
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- HTML & CSS
+**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML, CSS
 
-**Backend**
-- Node.js
-- Express.js
-- PostgreSQL
+**Backend:** Node.js, Express.js, PostgreSQL
 
-**Mobile Development**
-- React Native
-- Expo
+**Mobile:** React Native, Expo
 
-**Tools & Platforms**
-- Git
-- GitHub
-- Vite
-- VS Code
+**Tools:** Git, GitHub, Vite, VS Code
 
-### 🚀 Projects
+### Selected Projects
 
-**Ember — Food Ordering Application**
+**Ember**  
+A food ordering application currently in development.
 
-A food ordering platform currently in development, focused on providing users with a convenient way to explore food and place orders.
+**Personal Portfolio**  
+A website showcasing my development skills, experience and projects.
 
-**Personal Portfolio**
+### Contact
 
-My personal developer portfolio, showcasing my skills, experience and projects.
+- Portfolio: https://chukwuma-emmanuel-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/chukwuma-emmanuel-126517381/
 
-### 📫 Connect With Me
-
-- **Portfolio:** https://chukwuma-emmanuel-portfolio.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/chukwuma-emmanuel-126517381/
-
-I'm always open to meaningful collaborations, interesting projects and opportunities to grow as a developer.
+I'm interested in building useful products, collaborating with other developers and exploring opportunities to grow professionally.
